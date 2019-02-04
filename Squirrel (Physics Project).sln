@@ -1,0 +1,44 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F840A341-0367-ADCA-48F2-001F54EE770C}") = "Squirrel (Physics Project)", "Assembly-CSharp.csproj", "{14748DA3-DE7C-527B-8E2A-8969779E2149}"
+EndProject
+Project("{F840A341-0367-ADCA-48F2-001F54EE770C}") = "Squirrel (Physics Project)", "Assembly-UnityScript.unityproj", "{75C625A1-8437-DD6D-1496-9A9E7759A102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14748DA3-DE7C-527B-8E2A-8969779E2149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14748DA3-DE7C-527B-8E2A-8969779E2149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14748DA3-DE7C-527B-8E2A-8969779E2149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14748DA3-DE7C-527B-8E2A-8969779E2149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C625A1-8437-DD6D-1496-9A9E7759A102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C625A1-8437-DD6D-1496-9A9E7759A102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C625A1-8437-DD6D-1496-9A9E7759A102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C625A1-8437-DD6D-1496-9A9E7759A102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+EndGlobal
